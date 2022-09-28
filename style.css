@@ -1,0 +1,49 @@
+body {
+  background: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  from {background-color: red;}
+  to {background-color: blue;};
+}
+strong{
+    font-weight:normal;
+}
+
+
+
+
+#SF{
+    float: left;
+    width: 50%;
+}
+#SE{
+    float: right;
+    width: 0%;
+}
+
+
+
+.typetitre{
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+
+.typesoustitregauche{
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 6em
+}
+.typesoustitredroite{
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 6em
+}
+
+h2 {
+    text-transform:uppercase ;
+    text-align: center;
+ }
+
+ 
